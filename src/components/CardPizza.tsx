@@ -1,7 +1,7 @@
 const CardPizza: React.FC = () => {
 	return (
 		<div className="w-1/4 box-border mb-4 px-4">
-			<div className="flex flex-col items-center border rounded-xl py-1 cursor-pointer hover:bg-gray-100">
+			<div className="flex flex-col items-center border rounded-xl py-1 cursor-pointer hover:bg-gray-100 transition duration-150 ease-in">
 				<div className="mb-4">
 					<img
 						src="./icons/pizza-main.svg"
