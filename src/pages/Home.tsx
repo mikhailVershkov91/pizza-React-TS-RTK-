@@ -22,6 +22,7 @@ const Home: React.FC = () => {
 				<CardPizza />
 				<CardPizza />
 				<CardPizza />
+				<CardPizza />
 			</div>
 		</div>
 	);

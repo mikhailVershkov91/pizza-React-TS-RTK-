@@ -49,7 +49,7 @@ const Cart: React.FC = () => {
 							Назад
 						</div>
 					</NavLink>
-					<div className="w-32 p-1 text-center rounded-3xl bg-red-500 font-thin text-white cursor-pointer hover:bg-red-300 transition duration-150 ease-in">
+					<div className="w-32 p-1 text-center rounded-3xl bg-lime-600 font-thin text-white cursor-pointer hover:bg-lime-400 transition duration-150 ease-in">
 						Оплатить
 					</div>
 				</div>
